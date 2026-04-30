@@ -1,23 +1,26 @@
-```markdown
-# 👋 Hi, I'm orbitwebsites-cloud
+# orbitwebsites-cloud
+### Open-source developer & tool builder
 
-I build practical open-source tools that solve real problems—clean code, clear docs, and real impact. I thrive on challenges, whether it's shipping a new feature or winning a tough bounty.
+I'm a seasoned developer with a passion for building innovative tools and contributing to the open-source community. With a focus on creating high-quality software and collaborating with like-minded individuals, I'm always looking for new challenges and opportunities to grow.
 
-## 🔧 What I'm working on
-Right now, I'm focused on:
-- Building developer tools that save time and reduce friction
-- Hunting and winning open-source bounties (yes, I love the grind)
-- Contributing to projects that value maintainability and community
+### Current Focus
+- Building tools to simplify development workflows
+- Participating in bug bounty programs to identify and fix security vulnerabilities
+- Contributing to open-source projects to give back to the community
 
-## 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### Tech Stack
+[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-4.0+-blue.svg)](https://www.typescriptlang.org/)
+[![Docker](https://img.shields.io/badge/Docker-20.10+-blue.svg)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-1.22+-blue.svg)](https://kubernetes.io/)
 
-## 💛 Support my work
-Open-source is my passion—and my full-time focus. If you use or enjoy any of my projects, consider supporting me via [GitHub Sponsors](https://github.com/sponsors/orbitwebsites-cloud). Every contribution helps me keep building, fixing, and shipping.
+### Support my work
+If you find my contributions valuable, consider supporting me on GitHub Sponsors. Your backing will help me continue to build innovative tools and contribute to the open-source community.
 
-## �
+[![Sponsor me on GitHub](https://img.shields.io/badge/Sponsor%20me%20on%20GitHub-Donate-orange.svg)](https://github.com/sponsors/orbitwebsites-cloud)
+
+### Recent Activity
+(Placeholder for recent commits, issues, and pull requests)
+
+Feel free to reach out and collaborate on projects!
