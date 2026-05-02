@@ -1,26 +1,18 @@
-# orbitwebsites-cloud
-### Open-source developer & tool builder
+# Hi, I'm orbitwebsites-cloud
+I'm a passionate open-source developer, driven by a desire to create innovative solutions and contribute to the tech community. With a focus on building tools that make a difference, I'm always looking for the next challenge.
 
-I'm a seasoned developer with a passion for building innovative tools and contributing to the open-source community. With a focus on creating high-quality software and collaborating with like-minded individuals, I'm always looking for new challenges and opportunities to grow.
+## Current Focus
+I'm currently building tools to simplify development workflows, competing in bug bounty programs to improve security, and contributing to open-source projects that align with my values. My goal is to make a positive impact on the tech ecosystem.
 
-### Current Focus
-- Building tools to simplify development workflows
-- Participating in bug bounty programs to identify and fix security vulnerabilities
-- Contributing to open-source projects to give back to the community
+## Tech Stack
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
 
-### Tech Stack
-[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-4.0+-blue.svg)](https://www.typescriptlang.org/)
-[![Docker](https://img.shields.io/badge/Docker-20.10+-blue.svg)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-1.22+-blue.svg)](https://kubernetes.io/)
+## Support my work
+If you'd like to support my open-source endeavors, consider sponsoring me on [GitHub Sponsors](https://github.com/sponsors/orbitwebsites-cloud). Your contribution will help me continue building tools and contributing to the community.
 
-### Support my work
-If you find my contributions valuable, consider supporting me on GitHub Sponsors. Your backing will help me continue to build innovative tools and contribute to the open-source community.
+## Recent Activity
+[TODO: Add recent activity feed or notable projects]
 
-[![Sponsor me on GitHub](https://img.shields.io/badge/Sponsor%20me%20on%20GitHub-Donate-orange.svg)](https://github.com/sponsors/orbitwebsites-cloud)
-
-### Recent Activity
-(Placeholder for recent commits, issues, and pull requests)
-
-Feel free to reach out and collaborate on projects!
+Let's build something amazing together!
