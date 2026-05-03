@@ -1,21 +1,20 @@
-```markdown
-# 👋 Hi, I'm orbitwebsites-cloud
+# orbitwebsites-cloud
+### Open-source developer, building tools for a better web
 
-I build open-source tools that make developers' lives easier — one clean PR at a time. I thrive on solving real problems, shipping fast, and learning in public.
+I'm a seasoned developer with a passion for creating innovative tools and contributing to the open-source community. With a focus on building high-quality software and collaborating with like-minded individuals, I'm always looking for new challenges and opportunities to grow.
 
-## 🔧 What I'm up to
-Right now, I'm building lightweight dev tools, hunting open-source bounties, and contributing to projects that value simplicity and impact. If it improves workflows or helps devs ship better code, I'm in.
+### Current Focus
+- Building tools to simplify web development and deployment
+- Participating in bug bounty programs to identify and fix security vulnerabilities
+- Contributing to open-source projects to help shape the future of software development
 
-## 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+### Tech Stack
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/orbitwebsites-cloud?tab=repositories&q=javascript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/orbitwebsites-cloud?tab=repositories&q=typescript)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/orbitwebsites-cloud?tab=repositories&q=node.js)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/orbitwebsites-cloud?tab=repositories&q=python)
 
-## 💛 Support my work
-Open source keeps the dev world turning — and I'm proud to be part of it. If my tools save you time or inspire your work, consider supporting me on **[GitHub Sponsors](https://github.com/sponsors/orbitwebsites-cloud)**. Every contribution helps me build more, learn faster, and give back even more to the community.
+### Support my work
+If you find my contributions valuable, consider supporting me on GitHub Sponsors. Your backing helps me continue to build and contribute to the open-source community.
 
-##
+[![Sponsor](https://img.shields.io/badge/Sponsor%20me-%E2%9D%85%20%E2%9D%85%20%E
